@@ -8,3 +8,7 @@
 ### LISTA NO ENUMERADA
 * Index.html 
 * Información.txt
+
+Es un proyecto con objetivo de mejora en práctica para mejorar texto utilizando estrategias de formato y estilo del curso de ***GIT Y GITHUB***
+
+<> Si buscas un crecimiento... Sigue abierto a las sorpresas que te da la vida.
